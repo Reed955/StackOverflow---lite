@@ -1,0 +1,14 @@
+body {
+    background-color: #660066;
+}
+
+h1 {
+    color: slateblue;
+    font-style: oblique;
+    text-align: justify;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
